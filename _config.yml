@@ -1,0 +1,52 @@
+title: Yiran Li
+tagline: Prospective PhD Student
+description: "Research interests: Scientific computing, algebraic geometry, Macaulay2"
+url: "" # e.g., https://yiran-li-112358.github.io
+baseurl: "" # leave empty for user site (yourname.github.io). For project sites, set to "/repo-name"
+theme: minima
+
+# Show links in the top nav
+header_pages:
+  - about.md
+  - research.md
+  - publications.md
+  - cv.md
+  - blog/index.md
+
+author:
+  name: Yiran Li
+  email: woshiliyiran991125@gmail.com
+  github_username: yiran-li-112358
+  linkedin: your-linkedin
+  scholar: https://scholar.google.com/citations?user=YOURID
+  orcid: https://orcid.org/YOUR-ORCID
+  twitter: your-twitter
+
+# Plugins bundled by github-pages
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+minima:
+  skin: auto
+  social_links:
+    - {"platform": "github", "user_url": "https://github.com/your-github"}
+    - {"platform": "linkedin", "user_url": "https://www.linkedin.com/in/your-linkedin/"}
+    - {"platform": "x", "user_url": "https://twitter.com/your-twitter"}
+
+# Markdown options
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Build settings
+exclude:
+  - README.md
+  - ".github"
+  - "assets/cv/YourName_CV.pdf"  # remove if you add a real CV
+
+# Collections (optional)
+collections:
+  posts:
+    output: true
