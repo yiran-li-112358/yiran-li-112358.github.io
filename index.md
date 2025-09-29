@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Home
 ---
 
@@ -8,11 +8,10 @@ title: Home
   <div>
     <h1 style="margin:0">Yiran Li</h1>
     <p style="margin:0">Prospective PhD Student; Research interests in Scientific Computing, Algebraic Geometry, Macaulay2.</p>
-    <p style="margin:0"><a href="/cv.md">CV</a> · <a href="/publications.md">Publications</a> · <a href="/research.md">Research</a> · <a href="/blog/">Blog</a></p>
-  </div>
+    <p style="margin:0"><a href="/cv.md">CV</a> 
 </div>
 
 I’m currently a M.S. student in Applied Mathematics at Northwestern University. I’m applying to PhD programs for Fall 2026.
-My research focuses on **Scientific Computing**, **[Computational Algebraic Geometry]**, and **[Macaulay2]**. I enjoy building open-source tools and writing approachable posts about research ideas.
+My research focuses on Scientific Computing, Computational Algebraic Geometry, and Macaulay2.
 
-If you’re a prospective advisor interested in my work, the best place to start is my **[Research Statement](#)** and **CV**. Feel free to email me at `y1e4w7@u.northwestern.edu`.
+Feel free to email me at `y1e4w7@u.northwestern.edu`.

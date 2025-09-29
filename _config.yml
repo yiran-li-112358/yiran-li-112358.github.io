@@ -1,21 +1,21 @@
 title: Yiran Li
 tagline: Prospective PhD Student
 description: "Research interests: Scientific computing, computational algebraic geometry, Macaulay2"
-url: "" # e.g., https://yiran-li-112358.github.io
+url: "https://yiran-li-112358.github.io" # e.g., https://yiran-li-112358.github.io
 baseurl: "" # leave empty for user site (yourname.github.io). For project sites, set to "/repo-name"
 theme: minima
 
 # Show links in the top nav
 header_pages:
   - about.md
-  - research.md
-  - publications.md
+  #- research.md
+  #- publications.md
   - cv.md
-  - blog/index.md
+  #- blog/index.md
 
 author:
   name: Yiran Li
-  email: woshiliyiran991125@gmail.com
+  email: y1e4w7@u.northwestern.edu2p-=[]
   github_username: yiran-li-112358
   #linkedin: your-linkedin
   #scholar: https://scholar.google.com/citations?user=YOURID
@@ -24,13 +24,13 @@ author:
 
 # Plugins bundled by github-pages
 plugins:
-  - jekyll-feed
+  #- jekyll-feed
   - jekyll-sitemap
 
 minima:
   skin: auto
   social_links:
-    - {"platform": "github", "user_url": "https://github.com/your-github"}
+    - {"platform": "github", "user_url": "https://github.com/yiran-li-112358"}
     #- {"platform": "linkedin", "user_url": "https://www.linkedin.com/in/your-linkedin/"}
     #- {"platform": "x", "user_url": "https://twitter.com/your-twitter"}
 
@@ -44,7 +44,7 @@ kramdown:
 exclude:
   - README.md
   - ".github"
-  - "assets/cv/Yiran_Li_CV.pdf"  # remove if you add a real CV
+  - "assets/cv/YiranLi_CV.pdf"  # remove if you add a real CV
 
 # Collections (optional)
 collections:

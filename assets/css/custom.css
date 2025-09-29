@@ -2,3 +2,4 @@
 .post-title { letter-spacing: 0.2px; }
 .site-title { font-weight: 700; }
 img { image-rendering: -webkit-optimize-contrast; }
+.feed-subscribe { display: none; }
