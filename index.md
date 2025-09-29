@@ -5,7 +5,7 @@ title: Home
 
 <div style="display:flex;align-items:center;gap:1rem;flex-wrap:wrap">
   <img src="{{ '/assets/img/headshot.jpg' | relative_url }}"
-       alt="Headshot of Yiran Li" width="120" height="120"
+       alt="Headshot of Yiran Li" width="400" height="400"
        style="border-radius:50%;object-fit:cover">
 
   <div>
