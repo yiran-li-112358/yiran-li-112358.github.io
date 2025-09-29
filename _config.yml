@@ -44,8 +44,7 @@ kramdown:
 exclude:
   - README.md
   - ".github"
-  - "assets/cv/Yiran_Li_CV.pdf"  # remove if you add a real CV
-
+  
 # Collections (optional)
 collections:
   posts:

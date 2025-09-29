@@ -12,7 +12,6 @@ I’m a prospective PhD student interested in Scientific Computing. Previously, 
 - B.A., Philosophy, Pennsylvania State University, Aug 2019 - May 2024
 
 **Skills**
-- Methods: [e.g., Bayesian modeling, optimization, deep learning]
 - Tools: PyTorch JAX CUDA LaTeX
 - Languages: Python, C, MATLAB, R
 
