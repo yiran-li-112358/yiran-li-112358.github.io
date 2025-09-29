@@ -13,10 +13,10 @@ header_pages:
   - cv.md
   #- blog/index.md
 
-#author:
-  #Yiran Li
-  #y1e4w7@u.northwestern.edu
-  #yiran-li-112358
+author:
+  name: "Yiran Li"
+  email: "y1e4w7@u.northwestern.edu"
+  github_username: "yiran-li-112358-github"
   #linkedin: your-linkedin
   #scholar: https://scholar.google.com/citations?user=YOURID
   #orcid: https://orcid.org/YOUR-ORCID
