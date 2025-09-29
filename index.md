@@ -15,7 +15,7 @@ title: Home
     </p>
 
     <p style="margin:.5rem 0 0">
-      <a href="{{ '/assets/cv/YiranLi_CV.pdf' | relative_url }}">CV (PDF)</a>
+      <a href="{{ '/assets/cv/Yiran_Li_CV.pdf' | relative_url }}">CV (PDF)</a>
     </p>
   </div>
 </div>
