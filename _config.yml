@@ -1,7 +1,7 @@
 title: Yiran Li
 tagline: Prospective PhD Student
 description: "Research interests: Scientific computing, computational algebraic geometry, Macaulay2"
-url: "https://yiran-li-112358.github.io" # e.g., https://yiran-li-112358.github.io
+url: "https://yiran-li-112358.github.io" 
 baseurl: "" # leave empty for user site (yourname.github.io). For project sites, set to "/repo-name"
 theme: minima
 
