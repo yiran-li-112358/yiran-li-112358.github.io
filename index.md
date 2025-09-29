@@ -6,7 +6,7 @@ title: Home
 <div style="display:flex;align-items:center;gap:1rem;flex-wrap:wrap">
   <img src="{{ '/assets/img/headshot.jpg' | relative_url }}"
        alt="Headshot of Yiran Li" width="600" height="600"
-       style="border-radius:50%;object-fit:cover">
+       style="display:block;margin:0 auto;border-radius:50%;object-fit:cover">
 
   <div>
     <h1 style="margin:0">Yiran Li</h1>
