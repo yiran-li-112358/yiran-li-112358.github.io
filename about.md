@@ -16,4 +16,4 @@ I’m a prospective PhD student interested in Scientific Computing. Previously, 
 - Tools: PyTorch JAX CUDA LaTeX
 - Languages: Python, C, MATLAB, R
 
-**Contact**: `y1e4w7@u.northwestern.edu` or `yiranli2025@alum.northwestern.edu`
+**Contact**: `yiranli2025@alum.northwestern.edu`

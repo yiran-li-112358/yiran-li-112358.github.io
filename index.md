@@ -23,4 +23,6 @@ title: Home
 I’m currently a M.S. student in Applied Mathematics at Northwestern University. I’m applying to PhD programs for Fall 2026.
 My research focuses on Scientific Computing, Computational Algebraic Geometry, and Macaulay2.
 
-Feel free to email me at `y1e4w7@u.northwestern.edu`.
+
+
+Feel free to email me at `yiranli2025@alum.northwestern.edu`.
