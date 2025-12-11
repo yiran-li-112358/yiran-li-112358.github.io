@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I’m a prospective PhD student interested in Scientific Computing. Previously, I completed my M.S. in applied mathematics at Northwestern University.
+I received my M.S. in Applied Mathematics from Northwestern University and am pursuing Ph.D. applications for Fall 2026. My research lies at the intersection of scientific computing and computational algebraic geometry, with particular interest in polyhedral methods, homotopy continuation, and symbolic–numeric algorithms. I also work with computational tools such as Macaulay2 to explore and implement these methods.
 
 **Education**
 - M.S., Applied Mathematics, Northwestern University, Sep 2024 - June 2025

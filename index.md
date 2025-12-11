@@ -20,9 +20,7 @@ title: Home
   </div>
 </div>
 
-I’m currently a M.S. student in Applied Mathematics at Northwestern University. I’m applying to PhD programs for Fall 2026.
-My research focuses on Scientific Computing, Computational Algebraic Geometry, and Macaulay2.
-
+I received my M.S. in Applied Mathematics from Northwestern University and am pursuing Ph.D. applications for Fall 2026. My research lies at the intersection of scientific computing and computational algebraic geometry, with particular interest in polyhedral methods, homotopy continuation, and symbolic–numeric algorithms. I also work with computational tools such as Macaulay2 to explore and implement these methods.
 
 
 Feel free to email me at `yiranli2025@alum.northwestern.edu`.
